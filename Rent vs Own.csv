@@ -1,0 +1,64 @@
+ID Occupied By,Occupied By,ID Year,Year,Household Ownership,Household Ownership Moe,Geography,ID Geography,Slug Geography,share
+0,"Owner Occupied",2019,"2019",77274381,377633,"United States","01000US","united-states",0.6399214141224628
+0,"Owner Occupied",2019,"2019",2802699,11218,"Michigan","04000US26","michigan",0.7122413718179811
+0,"Owner Occupied",2019,"2019",117587,1218,"Genesee County, MI","05000US26049","genesee-county-mi",0.7003311455491894
+0,"Owner Occupied",2019,"2019",1900,212,"Beecher, MI","16000US2606820","beecher-mi",0.5496094879953717
+0,"Owner Occupied",2019,"2019",8458,408,"Burton, MI","16000US2612060","burton-mi",0.74011200560028
+0,"Owner Occupied",2019,"2019",117587,1218,"Flint, MI","31000US22420","flint-mi-31000US22420",0.7003311455491894
+0,"Owner Occupied",2019,"2019",28948,669,"Genesee County (Central, Outside Flint City) PUMA, MI","79500US2601702","genesee-county-central-outside-flint-city-puma-mi",0.6841234579571773
+0,"Owner Occupied",2019,"2019",22973,911,"Flint City Area PUMA, MI","79500US2601703","flint-city-area-puma-mi",0.5698658001141071
+0,"Owner Occupied",2019,"2019",58105,792,"Genesee (West) & Shiawassee Counties PUMA, MI","79500US2601704","genesee-west-shiawassee-counties-puma-mi",0.7944787792605557
+0,"Owner Occupied",2018,"2018",76444810,367132,"United States","01000US","united-states",0.6384759732320674
+0,"Owner Occupied",2018,"2018",2777114,12410,"Michigan","04000US26","michigan",0.7103485373738748
+0,"Owner Occupied",2018,"2018",116693,1313,"Genesee County, MI","05000US26049","genesee-county-mi",0.6950604268296314
+0,"Owner Occupied",2018,"2018",2015,203,"Beecher, MI","16000US2606820","beecher-mi",0.5650588895120583
+0,"Owner Occupied",2018,"2018",8556,371,"Burton, MI","16000US2612060","burton-mi",0.7434181944565122
+0,"Owner Occupied",2018,"2018",116693,1313,"Flint, MI","31000US22420","flint-mi-31000US22420",0.6950604268296314
+0,"Owner Occupied",2018,"2018",29290,662,"Genesee County (Central, Outside Flint City) PUMA, MI","79500US2601702","genesee-county-central-outside-flint-city-puma-mi",0.6900369873018116
+0,"Owner Occupied",2018,"2018",22028,702,"Flint City Area PUMA, MI","79500US2601703","flint-city-area-puma-mi",0.551375434907762
+0,"Owner Occupied",2018,"2018",58075,779,"Genesee (West) & Shiawassee Counties PUMA, MI","79500US2601704","genesee-west-shiawassee-counties-puma-mi",0.7908246636527044
+0,"Owner Occupied",2017,"2017",75833135,358989,"United States","01000US","united-states",0.6381868060589238
+0,"Owner Occupied",2017,"2017",2760156,11272,"Michigan","04000US26","michigan",0.7097987320008043
+0,"Owner Occupied",2017,"2017",117034,1292,"Genesee County, MI","05000US26049","genesee-county-mi",0.7014828756038792
+0,"Owner Occupied",2017,"2017",2010,187,"Beecher, MI","16000US2606820","beecher-mi",0.5587989991659716
+0,"Owner Occupied",2017,"2017",8551,325,"Burton, MI","16000US2612060","burton-mi",0.73317328303181
+0,"Owner Occupied",2017,"2017",117034,1292,"Flint, MI","31000US22420","flint-mi-31000US22420",0.7014828756038792
+0,"Owner Occupied",2017,"2017",29310,683,"Genesee County (Central, Outside Flint City) PUMA, MI","79500US2601702","genesee-county-central-outside-flint-city-puma-mi",0.6921551031974684
+0,"Owner Occupied",2017,"2017",22833,714,"Flint City Area PUMA, MI","79500US2601703","flint-city-area-puma-mi",0.5747476527298815
+0,"Owner Occupied",2017,"2017",57807,746,"Genesee (West) & Shiawassee Counties PUMA, MI","79500US2601704","genesee-west-shiawassee-counties-puma-mi",0.7934418579114967
+0,"Owner Occupied",2016,"2016",74881068,360470,"United States","01000US","united-states",0.6361150331368476
+0,"Owner Occupied",2016,"2016",2732051,11566,"Michigan","04000US26","michigan",0.7077129950984278
+0,"Owner Occupied",2016,"2016",115243,1243,"Genesee County, MI","05000US26049","genesee-county-mi",0.6932159957652607
+0,"Owner Occupied",2016,"2016",1975,202,"Beecher, MI","16000US2606820","beecher-mi",0.5362476242193863
+0,"Owner Occupied",2016,"2016",8207,399,"Burton, MI","16000US2612060","burton-mi",0.708660737414731
+0,"Owner Occupied",2016,"2016",115243,1243,"Flint, MI","31000US22420","flint-mi-31000US22420",0.6932159957652607
+0,"Owner Occupied",2016,"2016",28740,677,"Genesee County (Central, Outside Flint City) PUMA, MI","79500US2601702","genesee-county-central-outside-flint-city-puma-mi",0.6827900788748456
+0,"Owner Occupied",2016,"2016",22358,781,"Flint City Area PUMA, MI","79500US2601703","flint-city-area-puma-mi",0.5581267630245388
+0,"Owner Occupied",2016,"2016",57393,706,"Genesee (West) & Shiawassee Counties PUMA, MI","79500US2601704","genesee-west-shiawassee-counties-puma-mi",0.7937844902701132
+0,"Owner Occupied",2015,"2015",74712091,353420,"United States","01000US","united-states",0.6389673478521365
+0,"Owner Occupied",2015,"2015",2728815,11496,"Michigan","04000US26","michigan",0.7104165213108165
+0,"Owner Occupied",2015,"2015",114823,1286,"Genesee County, MI","05000US26049","genesee-county-mi",0.6947684972287436
+0,"Owner Occupied",2015,"2015",2082,177,"Beecher, MI","16000US2606820","beecher-mi",0.5941780821917808
+0,"Owner Occupied",2015,"2015",8238,346,"Burton, MI","16000US2612060","burton-mi",0.7189736428696107
+0,"Owner Occupied",2015,"2015",114823,1286,"Flint, MI","31000US22420","flint-mi-31000US22420",0.6947684972287436
+0,"Owner Occupied",2015,"2015",28996,673,"Genesee County (Central, Outside Flint City) PUMA, MI","79500US2601702","genesee-county-central-outside-flint-city-puma-mi",0.6947479394287905
+0,"Owner Occupied",2015,"2015",22455,682,"Flint City Area PUMA, MI","79500US2601703","flint-city-area-puma-mi",0.5575557431593584
+0,"Owner Occupied",2015,"2015",56967,739,"Genesee (West) & Shiawassee Counties PUMA, MI","79500US2601704","genesee-west-shiawassee-counties-puma-mi",0.7904837232536841
+0,"Owner Occupied",2014,"2014",74787460,343068,"United States","01000US","united-states",0.6435483800462007
+0,"Owner Occupied",2014,"2014",2738012,12390,"Michigan","04000US26","michigan",0.7152815657753117
+0,"Owner Occupied",2014,"2014",115167,1290,"Genesee County, MI","05000US26049","genesee-county-mi",0.6939359612441403
+0,"Owner Occupied",2014,"2014",2227,196,"Beecher, MI","16000US2606820","beecher-mi",0.6138368246968027
+0,"Owner Occupied",2014,"2014",8527,335,"Burton, MI","16000US2612060","burton-mi",0.7323713819462337
+0,"Owner Occupied",2014,"2014",115167,1290,"Flint, MI","31000US22420","flint-mi-31000US22420",0.6939359612441403
+0,"Owner Occupied",2014,"2014",29441,639,"Genesee County (Central, Outside Flint City) PUMA, MI","79500US2601702","genesee-county-central-outside-flint-city-puma-mi",0.698614209102558
+0,"Owner Occupied",2014,"2014",22479,692,"Flint City Area PUMA, MI","79500US2601703","flint-city-area-puma-mi",0.55480415628008
+0,"Owner Occupied",2014,"2014",56721,747,"Genesee (West) & Shiawassee Counties PUMA, MI","79500US2601704","genesee-west-shiawassee-counties-puma-mi",0.787594767974673
+0,"Owner Occupied",2013,"2013",75075700,345645,"United States","01000US","united-states",0.649386382947334
+0,"Owner Occupied",2013,"2013",2757062,11552,"Michigan","04000US26","michigan",0.7211247933711368
+0,"Owner Occupied",2013,"2013",116462,1247,"Genesee County, MI","05000US26049","genesee-county-mi",0.702980038510524
+0,"Owner Occupied",2013,"2013",2166,170,"Beecher, MI","16000US2606820","beecher-mi",0.601165695253955
+0,"Owner Occupied",2013,"2013",8558,347,"Burton, MI","16000US2612060","burton-mi",0.7437212131745894
+0,"Owner Occupied",2013,"2013",116462,1247,"Flint, MI","31000US22420","flint-mi-31000US22420",0.702980038510524
+0,"Owner Occupied",2013,"2013",29708,645,"Genesee County (Central, Outside Flint City) PUMA, MI","79500US2601702","genesee-county-central-outside-flint-city-puma-mi",0.7068620919387075
+0,"Owner Occupied",2013,"2013",23182,818,"Flint City Area PUMA, MI","79500US2601703","flint-city-area-puma-mi",0.5650976281598128
+0,"Owner Occupied",2013,"2013",56886,798,"Genesee (West) & Shiawassee Counties PUMA, MI","79500US2601704","genesee-west-shiawassee-counties-puma-mi",0.793234235992972
