@@ -1,0 +1,25 @@
+Here are some questions that we may want to ask:
+
+Let's pick a year with the most current data 
+
+
+What is the median household income for that year? (Split it up by race and compare)(Bar)
+
+What is the change in household income between start_year and present_year(as close as we can get)?(Bar)
+
+What is the Median income per capita? (Split up by race) (Bar)
+
+What is the Change in Median income per capita between start_year and present_year(as close as we can get)? (Bar)
+
+With these comparison I think that a bar chart would be best(I could be wrong)
+
+Any suggestions for a pie chart questions would be greatly appreciated
+
+Or we could find Median income by family size? (Bar)
+
+What is the Distribution of median family income with children by family type (single female, single male, and married couple/same sex)?
+
+What is the Distribution of median family income without children  by family type (single female, single male, and married couple/same sex)?
+
+
+
