@@ -1,0 +1,63 @@
+Facts,Flint,Michigan,United States
+"Population estimates, July 1, 2019,  (V2019)","95,538","9,986,857","328,239,523"
+"Population estimates base, April 1, 2010,  (V2019)","102,266","9,884,116","308,758,105"
+"Population, percent change - April 1, 2010 (estimates base) to July 1, 2019,  (V2019)",-6.60%,1.00%,6.30%
+"Population, Census, April 1, 2020","81,252","10,077,331","331,449,281"
+"Population, Census, April 1, 2010","102,434","9,883,640","308,745,538"
+"Persons under 5 years, percent",7.50%,5.70%,6.00%
+"Persons under 18 years, percent",24.90%,21.50%,22.30%
+"Persons 65 years and over, percent",13.50%,17.70%,16.50%
+"Female persons, percent",51.90%,50.70%,50.80%
+"White alone, percent",39.10%,79.20%,76.30%
+"Black or African American alone, percent",54.10%,14.10%,13.40%
+"American Indian and Alaska Native alone, percent",0.30%,0.70%,1.30%
+"Asian alone, percent",0.50%,3.40%,5.90%
+"Native Hawaiian and Other Pacific Islander alone, percent",0.00%,Z,0.20%
+"Two or More Races, percent",5.10%,2.50%,2.80%
+"Hispanic or Latino, percent",4.50%,5.30%,18.50%
+"White alone, not Hispanic or Latino, percent",36.90%,74.70%,60.10%
+"Veterans, 2015-2019","4,197","549,526","18,230,322"
+"Foreign born persons, percent, 2015-2019",2.00%,6.90%,13.60%
+"Housing units,  July 1, 2019,  (V2019)",X,"4,629,611","139,684,244"
+"Owner-occupied housing unit rate, 2015-2019",56.90%,71.20%,64.00%
+"Median value of owner-occupied housing units, 2015-2019","$29,500 ","$154,900 ","$217,500 "
+"Median selected monthly owner costs -with a mortgage, 2015-2019",$880 ,"$1,298 ","$1,595 "
+"Median selected monthly owner costs -without a mortgage, 2015-2019",$406 ,$490 ,$500 
+"Median gross rent, 2015-2019",$716 ,$871 ,"$1,062 "
+"Building permits, 2020",X,"19,735","1,471,141"
+"Households, 2015-2019","40,362","3,935,041","120,756,048"
+"Persons per household, 2015-2019",2.33,2.47,2.62
+"Living in same house 1 year ago, percent of persons age 1 year+, 2015-2019",82.60%,86.20%,85.80%
+"Language other than English spoken at home, percent of persons age 5 years+, 2015-2019",3.80%,9.70%,21.60%
+"Households with a computer, percent, 2015-2019",76.60%,89.60%,90.30%
+"Households with a broadband Internet subscription, percent, 2015-2019",61.20%,81.50%,82.70%
+"High school graduate or higher, percent of persons age 25 years+, 2015-2019",85.30%,90.80%,88.00%
+"Bachelor's degree or higher, percent of persons age 25 years+, 2015-2019",12.20%,29.10%,32.10%
+"With a disability, under age 65 years, percent, 2015-2019",19.20%,10.20%,8.60%
+"Persons  without health insurance, under age 65 years, percent",8.80%,6.90%,9.50%
+"In civilian labor force, total, percent of population age 16 years+, 2015-2019",53.40%,61.50%,63.00%
+"In civilian labor force, female, percent of population age 16 years+, 2015-2019",51.60%,57.10%,58.30%
+"Total accommodation and food services sales, 2012 ($1,000)","102,215","17,962,356","708,138,598"
+"Total health care and social assistance receipts/revenue, 2012 ($1,000)","1,190,315","63,018,786","2,040,441,203"
+"Total manufacturers shipments, 2012 ($1,000)",D,"238,892,383","5,696,729,632"
+"Total retail sales, 2012 ($1,000)","740,210","119,302,046","4,219,821,871"
+"Total retail sales per capita, 2012","$7,364 ","$12,071 ","$13,443 "
+"Mean travel time to work (minutes), workers age 16 years+, 2015-2019",22.6,24.6,26.9
+"Median household income (in 2019 dollars), 2015-2019","$28,834 ","$57,144 ","$62,843 "
+"Per capita income in past 12 months (in 2019 dollars), 2015-2019","$17,086 ","$31,713 ","$34,103 "
+"Persons in poverty, percent",38.80%,13.00%,10.50%
+"Total employer establishments, 2019",X,"222,226","7,959,103"
+"Total employment, 2019",X,"3,978,872","132,989,428"
+"Total annual payroll, 2019 ($1,000)",X,"203,510,092","7,428,553,593"
+"Total employment, percent change, 2018-2019",X,0.80%,1.60%
+"Total nonemployer establishments, 2018",X,"730,700","26,485,532"
+"All firms, 2012","8,712","834,087","27,626,360"
+"Men-owned firms, 2012","2,933","446,128","14,844,597"
+"Women-owned firms, 2012","5,303","306,986","9,878,397"
+"Minority-owned firms, 2012","5,305","158,946","7,952,386"
+"Nonminority-owned firms, 2012","3,036","657,237","18,987,918"
+"Veteran-owned firms, 2012",784,"71,861","2,521,682"
+"Nonveteran-owned firms, 2012","7,559","733,517","24,070,685"
+"Population per square mile, 2010","3,065.40",174.8,87.4
+"Land area in square miles, 2010",33.42,"56,538.90","3,531,905.43"
+FIPS Code,"""2629000""","""26""","""1"""
