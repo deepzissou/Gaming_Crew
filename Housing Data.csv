@@ -8,23 +8,21 @@ percent of detached homes,0.718,0.613,0.78
 percent of 1 attached homes ,0.046,0.058,0.039
 Percent of 2 attached homes,0.024,0.035,0.048
 "Households, 2015-2019",3935041,120756048,40362
-"Persons per household, 2015-2019",2.47,2.62,2.33
-Living in same house 1 year ago,0.862,0.858,0.826
-Male:,0.488,0.488,0.466
-Never married,0.181,0.181,0.226
-Now married:,0.24,0.247,0.155
-"Married, spouse present",0.225,0.225,0.134
-"Married, spouse absent:",0.016,0.022,0.021
-Separated,0.005,0.008,0.009
-Other,0.01,0.014,0.012
-Widowed,0.014,0.013,0.022
-Divorced,0.052,0.047,0.063
-Female:,0.512,0.512,0.534
-Never married,0.157,0.158,0.248
-Now married:,0.243,0.247,0.168
-"Married, spouse present",0.227,0.224,0.143
-"Married, spouse absent:",0.016,0.024,0.025
-Separated,0.007,0.01,0.018
-Other,0.009,0.013,0.008
-Widowed,0.047,0.044,0.036
-Divorced,0.065,0.063,0.083
+Male:,4014963,130629205,35333
+Never married,1492000,48481154,17156
+Now married:,1974035,66120364,11733
+"Married, spouse present",1846493,60243458,10174
+"Married, spouse absent:",127542,5876906,1559
+Separated,43333,2041898,684
+Other,84209,3835008,875
+Widowed,117346,3472244,1647
+Divorced,431582,12555443,4797
+Female:,4207656,137091567,40533
+Never married,1287433,42291512,18783
+Now married:,1998925,66231431,12762
+"Married, spouse present",1868196,59933781,10839
+"Married, spouse absent:",130729,6297650,1923
+Separated,54105,2808171,1340
+Other,76624,3489479,583
+Widowed,382946,11834834,2712
+Divorced,538352,16733790,6276
