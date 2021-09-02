@@ -1,0 +1,183 @@
+ID Age,Age,ID Gender,Gender,ID Year,Year,ID Poverty Status,Poverty Status,Poverty Population,Poverty Population Moe,Geography,ID Geography,Slug Geography,share
+0,Under 5 Years,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,2253,306,"Flint, MI",16000US2629000,flint-mi,0.061465012
+0,Under 5 Years,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,2300,346,"Flint, MI",16000US2629000,flint-mi,0.062747238
+1,5 Years,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,321,136,"Flint, MI",16000US2629000,flint-mi,0.008757332
+1,5 Years,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,240,103,"Flint, MI",16000US2629000,flint-mi,0.006547538
+2,6 to 11 Years,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,2575,379,"Flint, MI",16000US2629000,flint-mi,0.070249625
+2,6 to 11 Years,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,1760,326,"Flint, MI",16000US2629000,flint-mi,0.048015278
+3,12 to 14 Years,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,921,216,"Flint, MI",16000US2629000,flint-mi,0.025126177
+3,12 to 14 Years,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,1092,277,"Flint, MI",16000US2629000,flint-mi,0.029791297
+4,15 Years,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,228,119,"Flint, MI",16000US2629000,flint-mi,0.006220161
+4,15 Years,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,216,136,"Flint, MI",16000US2629000,flint-mi,0.005892784
+5,16 & 17 Years,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,579,216,"Flint, MI",16000US2629000,flint-mi,0.015795935
+5,16 & 17 Years,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,480,140,"Flint, MI",16000US2629000,flint-mi,0.013095076
+6,18 to 24 Years,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,2159,351,"Flint, MI",16000US2629000,flint-mi,0.058900559
+6,18 to 24 Years,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,2169,353,"Flint, MI",16000US2629000,flint-mi,0.059173373
+7,25 to 34 Years,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,1849,294,"Flint, MI",16000US2629000,flint-mi,0.050443323
+7,25 to 34 Years,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,3658,410,"Flint, MI",16000US2629000,flint-mi,0.099795389
+8,35 to 44 Years,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,1470,270,"Flint, MI",16000US2629000,flint-mi,0.040103669
+8,35 to 44 Years,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,2190,269,"Flint, MI",16000US2629000,flint-mi,0.059746283
+9,45 to 54 Years,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,2199,353,"Flint, MI",16000US2629000,flint-mi,0.059991816
+9,45 to 54 Years,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,1968,301,"Flint, MI",16000US2629000,flint-mi,0.05368981
+10,55 to 64 Years,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,2078,362,"Flint, MI",16000US2629000,flint-mi,0.056690765
+10,55 to 64 Years,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,2015,289,"Flint, MI",16000US2629000,flint-mi,0.054972037
+11,65 to 74 Years,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,472,153,"Flint, MI",16000US2629000,flint-mi,0.012876824
+11,65 to 74 Years,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,802,209,"Flint, MI",16000US2629000,flint-mi,0.021879689
+12,75 Years & Over,0,Male,2019,2019,0,Income In The Past 12 Months Below Poverty Level,258,89,"Flint, MI",16000US2629000,flint-mi,0.007038603
+12,75 Years & Over,1,Female,2019,2019,0,Income In The Past 12 Months Below Poverty Level,403,134,"Flint, MI",16000US2629000,flint-mi,0.010994407
+0,Under 5 Years,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,2491,333,"Flint, MI",16000US2629000,flint-mi,0.064798918
+0,Under 5 Years,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,2555,336,"Flint, MI",16000US2629000,flint-mi,0.066463764
+1,5 Years,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,400,137,"Flint, MI",16000US2629000,flint-mi,0.010405286
+1,5 Years,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,206,101,"Flint, MI",16000US2629000,flint-mi,0.005358722
+2,6 to 11 Years,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,2550,419,"Flint, MI",16000US2629000,flint-mi,0.066333698
+2,6 to 11 Years,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,1937,326,"Flint, MI",16000US2629000,flint-mi,0.050387597
+3,12 to 14 Years,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,1081,238,"Flint, MI",16000US2629000,flint-mi,0.028120285
+3,12 to 14 Years,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,1352,296,"Flint, MI",16000US2629000,flint-mi,0.035169866
+4,15 Years,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,286,118,"Flint, MI",16000US2629000,flint-mi,0.007439779
+4,15 Years,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,226,114,"Flint, MI",16000US2629000,flint-mi,0.005878987
+5,16 & 17 Years,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,634,220,"Flint, MI",16000US2629000,flint-mi,0.016492378
+5,16 & 17 Years,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,562,172,"Flint, MI",16000US2629000,flint-mi,0.014619427
+6,18 to 24 Years,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,2057,369,"Flint, MI",16000US2629000,flint-mi,0.053509183
+6,18 to 24 Years,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,2447,364,"Flint, MI",16000US2629000,flint-mi,0.063654336
+7,25 to 34 Years,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,1824,302,"Flint, MI",16000US2629000,flint-mi,0.047448104
+7,25 to 34 Years,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,3796,411,"Flint, MI",16000US2629000,flint-mi,0.098746163
+8,35 to 44 Years,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,1593,251,"Flint, MI",16000US2629000,flint-mi,0.041439051
+8,35 to 44 Years,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,2402,339,"Flint, MI",16000US2629000,flint-mi,0.062483742
+9,45 to 54 Years,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,2129,308,"Flint, MI",16000US2629000,flint-mi,0.055382134
+9,45 to 54 Years,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,2163,340,"Flint, MI",16000US2629000,flint-mi,0.056266583
+10,55 to 64 Years,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,2046,346,"Flint, MI",16000US2629000,flint-mi,0.053223037
+10,55 to 64 Years,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,2033,305,"Flint, MI",16000US2629000,flint-mi,0.052884866
+11,65 to 74 Years,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,360,106,"Flint, MI",16000US2629000,flint-mi,0.009364757
+11,65 to 74 Years,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,677,156,"Flint, MI",16000US2629000,flint-mi,0.017610946
+12,75 Years & Over,0,Male,2018,2018,0,Income In The Past 12 Months Below Poverty Level,278,101,"Flint, MI",16000US2629000,flint-mi,0.007231674
+12,75 Years & Over,1,Female,2018,2018,0,Income In The Past 12 Months Below Poverty Level,357,119,"Flint, MI",16000US2629000,flint-mi,0.009286718
+0,Under 5 Years,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,2522,335,"Flint, MI",16000US2629000,flint-mi,0.064036157
+0,Under 5 Years,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,2568,333,"Flint, MI",16000US2629000,flint-mi,0.065204144
+1,5 Years,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,365,127,"Flint, MI",16000US2629000,flint-mi,0.009267723
+1,5 Years,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,286,94,"Flint, MI",16000US2629000,flint-mi,0.007261832
+2,6 to 11 Years,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,2886,463,"Flint, MI",16000US2629000,flint-mi,0.073278489
+2,6 to 11 Years,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,2085,342,"Flint, MI",16000US2629000,flint-mi,0.05294028
+3,12 to 14 Years,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,1113,230,"Flint, MI",16000US2629000,flint-mi,0.028260207
+3,12 to 14 Years,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,1279,297,"Flint, MI",16000US2629000,flint-mi,0.032475117
+4,15 Years,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,213,86,"Flint, MI",16000US2629000,flint-mi,0.005408288
+4,15 Years,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,263,117,"Flint, MI",16000US2629000,flint-mi,0.006677839
+5,16 & 17 Years,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,572,194,"Flint, MI",16000US2629000,flint-mi,0.014523664
+5,16 & 17 Years,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,623,174,"Flint, MI",16000US2629000,flint-mi,0.015818607
+6,18 to 24 Years,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,1988,339,"Flint, MI",16000US2629000,flint-mi,0.050477351
+6,18 to 24 Years,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,2566,382,"Flint, MI",16000US2629000,flint-mi,0.065153362
+7,25 to 34 Years,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,2031,334,"Flint, MI",16000US2629000,flint-mi,0.051569165
+7,25 to 34 Years,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,3881,409,"Flint, MI",16000US2629000,flint-mi,0.098542555
+8,35 to 44 Years,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,1919,258,"Flint, MI",16000US2629000,flint-mi,0.048725371
+8,35 to 44 Years,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,2400,307,"Flint, MI",16000US2629000,flint-mi,0.060938452
+9,45 to 54 Years,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,2181,284,"Flint, MI",16000US2629000,flint-mi,0.055377818
+9,45 to 54 Years,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,2310,313,"Flint, MI",16000US2629000,flint-mi,0.05865326
+10,55 to 64 Years,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,1842,310,"Flint, MI",16000US2629000,flint-mi,0.046770262
+10,55 to 64 Years,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,1956,253,"Flint, MI",16000US2629000,flint-mi,0.049664839
+11,65 to 74 Years,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,327,96,"Flint, MI",16000US2629000,flint-mi,0.008302864
+11,65 to 74 Years,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,581,136,"Flint, MI",16000US2629000,flint-mi,0.014752184
+12,75 Years & Over,0,Male,2017,2017,0,Income In The Past 12 Months Below Poverty Level,249,105,"Flint, MI",16000US2629000,flint-mi,0.006322364
+12,75 Years & Over,1,Female,2017,2017,0,Income In The Past 12 Months Below Poverty Level,378,128,"Flint, MI",16000US2629000,flint-mi,0.009597806
+0,Under 5 Years,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,2570,327,"Flint, MI",16000US2629000,flint-mi,0.063583958
+0,Under 5 Years,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,2516,322,"Flint, MI",16000US2629000,flint-mi,0.062247953
+1,5 Years,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,423,152,"Flint, MI",16000US2629000,flint-mi,0.010465375
+1,5 Years,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,358,132,"Flint, MI",16000US2629000,flint-mi,0.008857221
+2,6 to 11 Years,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,3064,461,"Flint, MI",16000US2629000,flint-mi,0.075805933
+2,6 to 11 Years,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,2218,326,"Flint, MI",16000US2629000,flint-mi,0.054875182
+3,12 to 14 Years,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,980,223,"Flint, MI",16000US2629000,flint-mi,0.024246023
+3,12 to 14 Years,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,1258,263,"Flint, MI",16000US2629000,flint-mi,0.031123976
+4,15 Years,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,202,89,"Flint, MI",16000US2629000,flint-mi,0.00499765
+4,15 Years,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,322,133,"Flint, MI",16000US2629000,flint-mi,0.00796655
+5,16 & 17 Years,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,558,191,"Flint, MI",16000US2629000,flint-mi,0.013805389
+5,16 & 17 Years,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,725,202,"Flint, MI",16000US2629000,flint-mi,0.017937109
+6,18 to 24 Years,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,1967,283,"Flint, MI",16000US2629000,flint-mi,0.048665232
+6,18 to 24 Years,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,2785,341,"Flint, MI",16000US2629000,flint-mi,0.068903239
+7,25 to 34 Years,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,2152,318,"Flint, MI",16000US2629000,flint-mi,0.053242287
+7,25 to 34 Years,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,3931,452,"Flint, MI",16000US2629000,flint-mi,0.097256241
+8,35 to 44 Years,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,2065,277,"Flint, MI",16000US2629000,flint-mi,0.051089834
+8,35 to 44 Years,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,2506,329,"Flint, MI",16000US2629000,flint-mi,0.062000544
+9,45 to 54 Years,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,2322,272,"Flint, MI",16000US2629000,flint-mi,0.05744823
+9,45 to 54 Years,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,2403,283,"Flint, MI",16000US2629000,flint-mi,0.059452238
+10,55 to 64 Years,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,1708,260,"Flint, MI",16000US2629000,flint-mi,0.042257354
+10,55 to 64 Years,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,1906,273,"Flint, MI",16000US2629000,flint-mi,0.04715604
+11,65 to 74 Years,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,377,97,"Flint, MI",16000US2629000,flint-mi,0.009327297
+11,65 to 74 Years,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,581,140,"Flint, MI",16000US2629000,flint-mi,0.014374428
+12,75 Years & Over,0,Male,2016,2016,0,Income In The Past 12 Months Below Poverty Level,195,88,"Flint, MI",16000US2629000,flint-mi,0.004824464
+12,75 Years & Over,1,Female,2016,2016,0,Income In The Past 12 Months Below Poverty Level,327,104,"Flint, MI",16000US2629000,flint-mi,0.008090255
+0,Under 5 Years,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,2713,342,"Flint, MI",16000US2629000,flint-mi,0.067708203
+0,Under 5 Years,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,2511,356,"Flint, MI",16000US2629000,flint-mi,0.0626669
+1,5 Years,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,420,169,"Flint, MI",16000US2629000,flint-mi,0.010481919
+1,5 Years,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,391,131,"Flint, MI",16000US2629000,flint-mi,0.009758167
+2,6 to 11 Years,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,2970,457,"Flint, MI",16000US2629000,flint-mi,0.074122139
+2,6 to 11 Years,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,2287,332,"Flint, MI",16000US2629000,flint-mi,0.057076543
+3,12 to 14 Years,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,1071,228,"Flint, MI",16000US2629000,flint-mi,0.026728893
+3,12 to 14 Years,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,1054,221,"Flint, MI",16000US2629000,flint-mi,0.026304625
+4,15 Years,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,228,90,"Flint, MI",16000US2629000,flint-mi,0.005690184
+4,15 Years,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,277,133,"Flint, MI",16000US2629000,flint-mi,0.006913075
+5,16 & 17 Years,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,688,201,"Flint, MI",16000US2629000,flint-mi,0.017170381
+5,16 & 17 Years,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,608,160,"Flint, MI",16000US2629000,flint-mi,0.015173825
+6,18 to 24 Years,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,2237,384,"Flint, MI",16000US2629000,flint-mi,0.055828696
+6,18 to 24 Years,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,2936,353,"Flint, MI",16000US2629000,flint-mi,0.073273603
+7,25 to 34 Years,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,2156,296,"Flint, MI",16000US2629000,flint-mi,0.053807183
+7,25 to 34 Years,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,3858,421,"Flint, MI",16000US2629000,flint-mi,0.09628391
+8,35 to 44 Years,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,1931,289,"Flint, MI",16000US2629000,flint-mi,0.048191869
+8,35 to 44 Years,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,2445,297,"Flint, MI",16000US2629000,flint-mi,0.061019741
+9,45 to 54 Years,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,2277,286,"Flint, MI",16000US2629000,flint-mi,0.056826973
+9,45 to 54 Years,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,2181,271,"Flint, MI",16000US2629000,flint-mi,0.054431106
+10,55 to 64 Years,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,1561,257,"Flint, MI",16000US2629000,flint-mi,0.038957798
+10,55 to 64 Years,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,1806,240,"Flint, MI",16000US2629000,flint-mi,0.04507225
+11,65 to 74 Years,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,353,97,"Flint, MI",16000US2629000,flint-mi,0.008809803
+11,65 to 74 Years,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,585,116,"Flint, MI",16000US2629000,flint-mi,0.014599815
+12,75 Years & Over,0,Male,2015,2015,0,Income In The Past 12 Months Below Poverty Level,168,93,"Flint, MI",16000US2629000,flint-mi,0.004192767
+12,75 Years & Over,1,Female,2015,2015,0,Income In The Past 12 Months Below Poverty Level,357,95,"Flint, MI",16000US2629000,flint-mi,0.008909631
+0,Under 5 Years,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,2621,353,"Flint, MI",16000US2629000,flint-mi,0.064100369
+0,Under 5 Years,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,2547,328,"Flint, MI",16000US2629000,flint-mi,0.062290592
+1,5 Years,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,456,143,"Flint, MI",16000US2629000,flint-mi,0.011152144
+1,5 Years,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,420,160,"Flint, MI",16000US2629000,flint-mi,0.010271711
+2,6 to 11 Years,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,3121,462,"Flint, MI",16000US2629000,flint-mi,0.076328597
+2,6 to 11 Years,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,2306,335,"Flint, MI",16000US2629000,flint-mi,0.056396586
+3,12 to 14 Years,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,1210,231,"Flint, MI",16000US2629000,flint-mi,0.029592311
+3,12 to 14 Years,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,1213,299,"Flint, MI",16000US2629000,flint-mi,0.02966568
+4,15 Years,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,290,117,"Flint, MI",16000US2629000,flint-mi,0.007092372
+4,15 Years,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,497,144,"Flint, MI",16000US2629000,flint-mi,0.012154858
+5,16 & 17 Years,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,716,156,"Flint, MI",16000US2629000,flint-mi,0.017510822
+5,16 & 17 Years,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,719,180,"Flint, MI",16000US2629000,flint-mi,0.017584191
+6,18 to 24 Years,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,2223,361,"Flint, MI",16000US2629000,flint-mi,0.0543667
+6,18 to 24 Years,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,3073,356,"Flint, MI",16000US2629000,flint-mi,0.075154687
+7,25 to 34 Years,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,2203,340,"Flint, MI",16000US2629000,flint-mi,0.053877571
+7,25 to 34 Years,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,3875,395,"Flint, MI",16000US2629000,flint-mi,0.094768764
+8,35 to 44 Years,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,2026,289,"Flint, MI",16000US2629000,flint-mi,0.049548778
+8,35 to 44 Years,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,2401,300,"Flint, MI",16000US2629000,flint-mi,0.058719949
+9,45 to 54 Years,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,2244,279,"Flint, MI",16000US2629000,flint-mi,0.054880286
+9,45 to 54 Years,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,2365,249,"Flint, MI",16000US2629000,flint-mi,0.057839517
+10,55 to 64 Years,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,1297,218,"Flint, MI",16000US2629000,flint-mi,0.031720022
+10,55 to 64 Years,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,1574,223,"Flint, MI",16000US2629000,flint-mi,0.038494461
+11,65 to 74 Years,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,348,105,"Flint, MI",16000US2629000,flint-mi,0.008510846
+11,65 to 74 Years,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,564,134,"Flint, MI",16000US2629000,flint-mi,0.013793441
+12,75 Years & Over,0,Male,2014,2014,0,Income In The Past 12 Months Below Poverty Level,128,65,"Flint, MI",16000US2629000,flint-mi,0.003130426
+12,75 Years & Over,1,Female,2014,2014,0,Income In The Past 12 Months Below Poverty Level,452,109,"Flint, MI",16000US2629000,flint-mi,0.011054318
+0,Under 5 Years,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,2825,367,"Flint, MI",16000US2629000,flint-mi,0.068425132
+0,Under 5 Years,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,2672,375,"Flint, MI",16000US2629000,flint-mi,0.064719275
+1,5 Years,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,495,162,"Flint, MI",16000US2629000,flint-mi,0.011989536
+1,5 Years,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,547,171,"Flint, MI",16000US2629000,flint-mi,0.013249043
+2,6 to 11 Years,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,3025,429,"Flint, MI",16000US2629000,flint-mi,0.073269389
+2,6 to 11 Years,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,2376,337,"Flint, MI",16000US2629000,flint-mi,0.057549775
+3,12 to 14 Years,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,1156,227,"Flint, MI",16000US2629000,flint-mi,0.027999806
+3,12 to 14 Years,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,924,264,"Flint, MI",16000US2629000,flint-mi,0.022380468
+4,15 Years,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,332,107,"Flint, MI",16000US2629000,flint-mi,0.008041467
+4,15 Years,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,508,148,"Flint, MI",16000US2629000,flint-mi,0.012304413
+5,16 & 17 Years,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,671,171,"Flint, MI",16000US2629000,flint-mi,0.016252483
+5,16 & 17 Years,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,846,205,"Flint, MI",16000US2629000,flint-mi,0.020491208
+6,18 to 24 Years,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,2361,347,"Flint, MI",16000US2629000,flint-mi,0.057186455
+6,18 to 24 Years,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,2967,339,"Flint, MI",16000US2629000,flint-mi,0.071864555
+7,25 to 34 Years,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,2499,358,"Flint, MI",16000US2629000,flint-mi,0.060528993
+7,25 to 34 Years,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,4210,395,"Flint, MI",16000US2629000,flint-mi,0.101971613
+8,35 to 44 Years,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,1883,280,"Flint, MI",16000US2629000,flint-mi,0.045608681
+8,35 to 44 Years,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,2350,348,"Flint, MI",16000US2629000,flint-mi,0.056920021
+9,45 to 54 Years,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,2365,345,"Flint, MI",16000US2629000,flint-mi,0.057283341
+9,45 to 54 Years,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,2448,273,"Flint, MI",16000US2629000,flint-mi,0.059293707
+10,55 to 64 Years,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,1106,185,"Flint, MI",16000US2629000,flint-mi,0.026788742
+10,55 to 64 Years,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,1372,205,"Flint, MI",16000US2629000,flint-mi,0.033231604
+11,65 to 74 Years,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,329,113,"Flint, MI",16000US2629000,flint-mi,0.007968803
+11,65 to 74 Years,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,557,137,"Flint, MI",16000US2629000,flint-mi,0.013491256
+12,75 Years & Over,0,Male,2013,2013,0,Income In The Past 12 Months Below Poverty Level,74,51,"Flint, MI",16000US2629000,flint-mi,0.001792375
+12,75 Years & Over,1,Female,2013,2013,0,Income In The Past 12 Months Below Poverty Level,388,102,"Flint, MI",16000US2629000,flint-mi,0.009397859
